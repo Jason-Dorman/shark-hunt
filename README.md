@@ -1,3 +1,3 @@
 # shark-hunt
 
-# You'll find data projects and data journalism here.
+# A collection of data projects and data journalism. Yes this title is a nod to Hunter S. Thompson.
